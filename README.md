@@ -1,5 +1,5 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a><a href="https://tailwindcss.com/"><img src="https://www.zemna.net/wp-content/uploads/2021/04/featured_image_tailwind_css.png" width="400px"></a> <a href="https://jetstream.laravel.com/introduction.html"><img src="https://tse3.mm.bing.net/th?id=OIP.eMm5e3jicdEwaMU6U5tKvAHaDX&pid=Api&P=0&h=220" width="400px></a></p>
-
+<hr>
 ## About Laravel <p>halo</p>
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
