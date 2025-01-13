@@ -6,7 +6,7 @@ Project Tailwind adalah sebuah aplikasi website yang dibuat .
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a>
 <a href="https://tailwindcss.com/"><img src="foto/tailwind.png" width="400px"></a>
 <a href="https://jetstream.laravel.com/"><img src="foto/jetstream.png" width="400px></a>
-<a href="https://r.search.yahoo.com/_ylt=Awr991bWKoVntDYQmGlXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1737990102/RO=10/RU=https%3a%2f%2flaravel-livewire.com%2f/RK=2/RS=csP4wioLzZjd1UPFvhlK0GIn3x4-"><img src="foto/livewire.png" width="400px"></a></p>
+<a href="https://laravel-livewire.com/"><img src="foto/livewire.png" width="400px"></a></p>
 
 ## Learning Laravel
 
