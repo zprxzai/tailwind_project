@@ -8,13 +8,13 @@ Project Tailwind adalah sebuah aplikasi website yang dibuat oleh studentday prog
 <a href="https://jetstream.laravel.com/"><img src="foto/jetstream.png" width="400px></a>
 <a href="https://laravel-livewire.com/"><img src="foto/livewire.png" width="400px"></a></p>
 
-## PRoject Ini Berisi Konten :
+## Project Ini Berisi Konten :
 
-- Tampilan Dashboard <br><br>
+- ###Tampilan Dashboard### <br><br>
     <p align="center"><img src="foto/konten/dashboard.png" width="800px"></p>
-- View yang Berisi Data <br><br>
+- ###View yang Berisi Data### <br><br>
   <p align="center"><img src="foto/konten/view.png" width="800px"></p>
-- Menu Registrasi dan Login <br><br>
+- ###Menu Registrasi dan Login### <br><br>
   <p align="center"><img src="foto/konten/regis.png" width="400px" height="250px">    <img src="foto/konten/login.png" width="400px" height="250px"></p>
 - **[WebReinvent](https://webreinvent.com/)**
 - **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
