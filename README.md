@@ -1,5 +1,5 @@
 ## Tentang Project Tailwind
-Project Tailwind adalah sebuah aplikasi website yang dibuat .
+Project Tailwind adalah sebuah aplikasi website yang dibuat oleh studentday programming web SMA Plus PGRI Cibinong.
 <br>
 <br>
 ## Dibuat Dengan :
@@ -8,21 +8,10 @@ Project Tailwind adalah sebuah aplikasi website yang dibuat .
 <a href="https://jetstream.laravel.com/"><img src="foto/jetstream.png" width="400px></a>
 <a href="https://laravel-livewire.com/"><img src="foto/livewire.png" width="400px"></a></p>
 
-## Learning Laravel
+## PRoject Ini Berisi Konten :
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
+- View yang Berisi Data
+  <img src="">
 - **[Tighten Co.](https://tighten.co)**
 - **[WebReinvent](https://webreinvent.com/)**
 - **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
