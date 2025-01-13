@@ -19,5 +19,5 @@ Project Tailwind adalah sebuah aplikasi website yang dibuat oleh studentday prog
 
 ## Lisensi
 
-Copyright (c) 2025 [Zaidan Pasya Rusmiadi] (https://www.instagram.com/zai.p_/profilecard/)
+Copyright (c) 2025 [Zaidan Pasya Rusmiadi](https://www.instagram.com/zai.p_/profilecard/)
 
